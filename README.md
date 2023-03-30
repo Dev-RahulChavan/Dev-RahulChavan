@@ -82,5 +82,5 @@
 
 ------
 
-Credit: https://github.com/ak-akash03
+Credit:Mr.rahul
 last update : 31 march 2023
