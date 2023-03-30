@@ -82,6 +82,5 @@
 
 ------
 
-Credit: [zeeid](https://github.com/zeeid)
-
-Last Edited on: 17/10/2022
+Credit: https://github.com/kunal-kushwaha
+last update : 31 march 2023
