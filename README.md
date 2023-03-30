@@ -64,13 +64,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/jundi-husni/](https://www.linkedin.com/in/rahul-chavan-71b453238/)">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rahul-chavan-71b453238/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
 <!--         <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/"> -->
 <!-- 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
-		<a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/zeeidev](https://twitter.com/RahulCh99238649)">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/RahulCh99238649">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 <!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
