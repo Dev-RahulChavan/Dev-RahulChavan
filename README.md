@@ -82,5 +82,5 @@
 
 ------
 
-Credit:Mr.rahul
+Credit: Mr.rahul chavan
 last update : 31 march 2023
